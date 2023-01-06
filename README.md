@@ -1,4 +1,4 @@
-# Git
+# GitHub
 __Задание по GitHub_1__
 
 __JSON__
